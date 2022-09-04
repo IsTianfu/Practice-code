@@ -1,0 +1,3 @@
+﻿  practice.c
+D:\Visual Studio Project Code\Project2022_09_04\Project2022_09_04\practice.c(101,2): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Visual Studio Project Code\Project2022_09_04\Project2022_09_04\practice.c(83): fatal  error C1075: “{”: 未找到匹配令牌
