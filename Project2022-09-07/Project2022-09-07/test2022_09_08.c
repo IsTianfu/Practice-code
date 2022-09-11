@@ -33,7 +33,7 @@
 
 
 //static:静态的
-//1.static修饰局部变量
+//1.static修饰全局变量
 //2.static修饰局部变量
 //3.static修饰函数
 
