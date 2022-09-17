@@ -1,0 +1,12 @@
+﻿  practice.c
+D:\Visual Studio Project Code\Project2022_09_16\Project2022_09_16\practice.c(90,25): error C2065: “password，”: 未声明的标识符
+D:\Visual Studio Project Code\Project2022_09_16\Project2022_09_16\practice.c(90,25): warning C4047: “函数”:“const char *”与“int”的间接级别不同
+D:\Visual Studio Project Code\Project2022_09_16\Project2022_09_16\practice.c(90,14): warning C4024: “strcmp”: 形参和实参 1 的类型不同
+D:\Visual Studio Project Code\Project2022_09_16\Project2022_09_16\practice.c(90,25): error C2143: 语法错误: 缺少“)”(在“字符串”的前面)
+D:\Visual Studio Project Code\Project2022_09_16\Project2022_09_16\practice.c(90,7): error C2198: “strcmp”: 用于调用的参数太少
+D:\Visual Studio Project Code\Project2022_09_16\Project2022_09_16\practice.c(90,33): error C2059: 语法错误:“)”
+D:\Visual Studio Project Code\Project2022_09_16\Project2022_09_16\practice.c(90,39): error C2059: 语法错误:“)”
+D:\Visual Studio Project Code\Project2022_09_16\Project2022_09_16\practice.c(95,3): error C2181: 没有匹配 if 的非法 else
+D:\Visual Studio Project Code\Project2022_09_16\Project2022_09_16\practice.c(100,2): error C2059: 语法错误:“if”
+D:\Visual Studio Project Code\Project2022_09_16\Project2022_09_16\practice.c(102,2): error C2059: 语法错误:“return”
+D:\Visual Studio Project Code\Project2022_09_16\Project2022_09_16\practice.c(103,1): error C2059: 语法错误:“}”
